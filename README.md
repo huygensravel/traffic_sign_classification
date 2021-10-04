@@ -1,5 +1,5 @@
 # Classification of Traffic Signs using AlexNet like CNN: 100% test accuracy
-
+### Author: Huygens Ravelomanana
 ## Description
 + Using a similar AlexNet like configuration as for our AlexNet like architecture for CIFAR10 [https://github.com/huygensravel/AlexNet_for_cifar10](https://github.com/huygensravel/AlexNet_for_cifar10), we create, train, and evaluate a model that classify 43 types of traffic signs. The difference with our CIFAR10 architecture is that here we do not use local response normalization since here we have only one channel.
  
